@@ -1,0 +1,17 @@
+#helloworld {
+  margin: 5rem 0 0 0;
+  h1, h4 {
+    text-align: center;
+
+  }
+  div.card__media__content > span.specword {
+    margin: 0 auto;
+    text-align: center;
+    color: red;
+    font-size: 2.5rem;
+  }
+  div.card__media__content > span.specword:hover {
+    color: #B24138;
+    font-size: 2.9rem;
+  }
+}

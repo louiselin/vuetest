@@ -1,0 +1,968 @@
+[
+    {
+        "date": "2018-05-01",
+        "weekday": "Tuesday",
+        "amount": "2,692",
+        "N_person": 251
+    },
+    {
+        "date": "2018-04-30",
+        "weekday": "Monday",
+        "amount": "5,584",
+        "N_person": 475
+    },
+    {
+        "date": "2018-04-29",
+        "weekday": "Sunday",
+        "amount": "3,444",
+        "N_person": 326
+    },
+    {
+        "date": "2018-04-28",
+        "weekday": "Saturday",
+        "amount": "5,343",
+        "N_person": 565
+    },
+    {
+        "date": "2018-04-27",
+        "weekday": "Friday",
+        "amount": "6,040",
+        "N_person": 617
+    },
+    {
+        "date": "2018-04-26",
+        "weekday": "Thursday",
+        "amount": "5,614",
+        "N_person": 597
+    },
+    {
+        "date": "2018-04-25",
+        "weekday": "Wednesday",
+        "amount": "6,441",
+        "N_person": 640
+    },
+    {
+        "date": "2018-04-24",
+        "weekday": "Tuesday",
+        "amount": "11,786",
+        "N_person": 704
+    },
+    {
+        "date": "2018-04-23",
+        "weekday": "Monday",
+        "amount": "11,507",
+        "N_person": 662
+    },
+    {
+        "date": "2018-04-22",
+        "weekday": "Sunday",
+        "amount": "3,876",
+        "N_person": 378
+    },
+    {
+        "date": "2018-04-21",
+        "weekday": "Saturday",
+        "amount": "6,133",
+        "N_person": 585
+    },
+    {
+        "date": "2018-04-20",
+        "weekday": "Friday",
+        "amount": "6,736",
+        "N_person": 630
+    },
+    {
+        "date": "2018-04-19",
+        "weekday": "Thursday",
+        "amount": "6,917",
+        "N_person": 707
+    },
+    {
+        "date": "2018-04-18",
+        "weekday": "Wednesday",
+        "amount": "7,284",
+        "N_person": 732
+    },
+    {
+        "date": "2018-04-17",
+        "weekday": "Tuesday",
+        "amount": "7,617",
+        "N_person": 707
+    },
+    {
+        "date": "2018-04-16",
+        "weekday": "Monday",
+        "amount": "5,167",
+        "N_person": 448
+    },
+    {
+        "date": "2018-04-15",
+        "weekday": "Sunday",
+        "amount": "4,453",
+        "N_person": 396
+    },
+    {
+        "date": "2018-04-14",
+        "weekday": "Saturday",
+        "amount": "7,417",
+        "N_person": 636
+    },
+    {
+        "date": "2018-04-13",
+        "weekday": "Friday",
+        "amount": "7,433",
+        "N_person": 738
+    },
+    {
+        "date": "2018-04-12",
+        "weekday": "Thursday",
+        "amount": "7,478",
+        "N_person": 717
+    },
+    {
+        "date": "2018-04-11",
+        "weekday": "Wednesday",
+        "amount": "6,605",
+        "N_person": 694
+    },
+    {
+        "date": "2018-04-10",
+        "weekday": "Tuesday",
+        "amount": "6,654",
+        "N_person": 642
+    },
+    {
+        "date": "2018-04-09",
+        "weekday": "Monday",
+        "amount": "5,997",
+        "N_person": 576
+    },
+    {
+        "date": "2018-04-08",
+        "weekday": "Sunday",
+        "amount": "3,694",
+        "N_person": 348
+    },
+    {
+        "date": "2018-04-07",
+        "weekday": "Saturday",
+        "amount": "5,677",
+        "N_person": 534
+    },
+    {
+        "date": "2018-04-06",
+        "weekday": "Friday",
+        "amount": "5,527",
+        "N_person": 466
+    },
+    {
+        "date": "2018-04-05",
+        "weekday": "Thursday",
+        "amount": "2,586",
+        "N_person": 242
+    },
+    {
+        "date": "2018-04-04",
+        "weekday": "Wednesday",
+        "amount": "6,527",
+        "N_person": 633
+    },
+    {
+        "date": "2018-04-03",
+        "weekday": "Tuesday",
+        "amount": "7,227",
+        "N_person": 744
+    },
+    {
+        "date": "2018-04-02",
+        "weekday": "Monday",
+        "amount": "6,906",
+        "N_person": 679
+    },
+    {
+        "date": "2018-04-01",
+        "weekday": "Sunday",
+        "amount": "4,073",
+        "N_person": 383
+    },
+    {
+        "date": "2018-03-31",
+        "weekday": "Saturday",
+        "amount": "9,096",
+        "N_person": 688
+    },
+    {
+        "date": "2018-03-30",
+        "weekday": "Friday",
+        "amount": "6,439",
+        "N_person": 640
+    },
+    {
+        "date": "2018-03-29",
+        "weekday": "Thursday",
+        "amount": "7,923",
+        "N_person": 718
+    },
+    {
+        "date": "2018-03-28",
+        "weekday": "Wednesday",
+        "amount": "6,959",
+        "N_person": 708
+    },
+    {
+        "date": "2018-03-27",
+        "weekday": "Tuesday",
+        "amount": "7,434",
+        "N_person": 738
+    },
+    {
+        "date": "2018-03-26",
+        "weekday": "Monday",
+        "amount": "5,540",
+        "N_person": 573
+    },
+    {
+        "date": "2018-03-25",
+        "weekday": "Sunday",
+        "amount": "4,098",
+        "N_person": 367
+    },
+    {
+        "date": "2018-03-24",
+        "weekday": "Saturday",
+        "amount": "7,116",
+        "N_person": 694
+    },
+    {
+        "date": "2018-03-23",
+        "weekday": "Friday",
+        "amount": "8,645",
+        "N_person": 865
+    },
+    {
+        "date": "2018-03-22",
+        "weekday": "Thursday",
+        "amount": "9,661",
+        "N_person": 820
+    },
+    {
+        "date": "2018-03-21",
+        "weekday": "Wednesday",
+        "amount": "8,005",
+        "N_person": 758
+    },
+    {
+        "date": "2018-03-20",
+        "weekday": "Tuesday",
+        "amount": "6,702",
+        "N_person": 639
+    },
+    {
+        "date": "2018-03-19",
+        "weekday": "Monday",
+        "amount": "5,925",
+        "N_person": 626
+    },
+    {
+        "date": "2018-03-18",
+        "weekday": "Sunday",
+        "amount": "3,722",
+        "N_person": 301
+    },
+    {
+        "date": "2018-03-17",
+        "weekday": "Saturday",
+        "amount": "6,780",
+        "N_person": 553
+    },
+    {
+        "date": "2018-03-16",
+        "weekday": "Friday",
+        "amount": "7,541",
+        "N_person": 680
+    },
+    {
+        "date": "2018-03-15",
+        "weekday": "Thursday",
+        "amount": "7,624",
+        "N_person": 696
+    },
+    {
+        "date": "2018-03-14",
+        "weekday": "Wednesday",
+        "amount": "7,673",
+        "N_person": 717
+    },
+    {
+        "date": "2018-03-13",
+        "weekday": "Tuesday",
+        "amount": "7,574",
+        "N_person": 707
+    },
+    {
+        "date": "2018-03-12",
+        "weekday": "Monday",
+        "amount": "6,346",
+        "N_person": 648
+    },
+    {
+        "date": "2018-03-11",
+        "weekday": "Sunday",
+        "amount": "2,735",
+        "N_person": 280
+    },
+    {
+        "date": "2018-03-10",
+        "weekday": "Saturday",
+        "amount": "5,569",
+        "N_person": 495
+    },
+    {
+        "date": "2018-03-09",
+        "weekday": "Friday",
+        "amount": "7,840",
+        "N_person": 680
+    },
+    {
+        "date": "2018-03-08",
+        "weekday": "Thursday",
+        "amount": "6,270",
+        "N_person": 555
+    },
+    {
+        "date": "2018-03-07",
+        "weekday": "Wednesday",
+        "amount": "6,788",
+        "N_person": 635
+    },
+    {
+        "date": "2018-03-06",
+        "weekday": "Tuesday",
+        "amount": "5,836",
+        "N_person": 577
+    },
+    {
+        "date": "2018-03-05",
+        "weekday": "Monday",
+        "amount": "5,855",
+        "N_person": 592
+    },
+    {
+        "date": "2018-03-04",
+        "weekday": "Sunday",
+        "amount": "2,838",
+        "N_person": 235
+    },
+    {
+        "date": "2018-03-03",
+        "weekday": "Saturday",
+        "amount": "5,153",
+        "N_person": 453
+    },
+    {
+        "date": "2018-03-02",
+        "weekday": "Friday",
+        "amount": "5,529",
+        "N_person": 552
+    },
+    {
+        "date": "2018-03-01",
+        "weekday": "Thursday",
+        "amount": "6,200",
+        "N_person": 622
+    },
+    {
+        "date": "2018-02-28",
+        "weekday": "Wednesday",
+        "amount": "10,528",
+        "N_person": 578
+    },
+    {
+        "date": "2018-02-27",
+        "weekday": "Tuesday",
+        "amount": "6,115",
+        "N_person": 582
+    },
+    {
+        "date": "2018-02-26",
+        "weekday": "Monday",
+        "amount": "5,349",
+        "N_person": 484
+    },
+    {
+        "date": "2018-02-25",
+        "weekday": "Sunday",
+        "amount": "958",
+        "N_person": 112
+    },
+    {
+        "date": "2018-02-24",
+        "weekday": "Saturday",
+        "amount": "3,073",
+        "N_person": 290
+    },
+    {
+        "date": "2018-02-23",
+        "weekday": "Friday",
+        "amount": "2,960",
+        "N_person": 263
+    },
+    {
+        "date": "2018-02-22",
+        "weekday": "Thursday",
+        "amount": "1,422",
+        "N_person": 112
+    },
+    {
+        "date": "2018-02-09",
+        "weekday": "Friday",
+        "amount": "10,847",
+        "N_person": 667
+    },
+    {
+        "date": "2018-02-08",
+        "weekday": "Thursday",
+        "amount": "7,889",
+        "N_person": 710
+    },
+    {
+        "date": "2018-02-07",
+        "weekday": "Wednesday",
+        "amount": "8,358",
+        "N_person": 721
+    },
+    {
+        "date": "2018-02-06",
+        "weekday": "Tuesday",
+        "amount": "7,642",
+        "N_person": 715
+    },
+    {
+        "date": "2018-02-05",
+        "weekday": "Monday",
+        "amount": "7,075",
+        "N_person": 620
+    },
+    {
+        "date": "2018-02-04",
+        "weekday": "Sunday",
+        "amount": "4,649",
+        "N_person": 366
+    },
+    {
+        "date": "2018-02-03",
+        "weekday": "Saturday",
+        "amount": "8,162",
+        "N_person": 714
+    },
+    {
+        "date": "2018-02-02",
+        "weekday": "Friday",
+        "amount": "8,531",
+        "N_person": 771
+    },
+    {
+        "date": "2018-02-01",
+        "weekday": "Thursday",
+        "amount": "14,147",
+        "N_person": 872
+    },
+    {
+        "date": "2018-01-31",
+        "weekday": "Wednesday",
+        "amount": "7,549",
+        "N_person": 728
+    },
+    {
+        "date": "2018-01-30",
+        "weekday": "Tuesday",
+        "amount": "8,004",
+        "N_person": 731
+    },
+    {
+        "date": "2018-01-29",
+        "weekday": "Monday",
+        "amount": "7,633",
+        "N_person": 662
+    },
+    {
+        "date": "2018-01-28",
+        "weekday": "Sunday",
+        "amount": "4,852",
+        "N_person": 425
+    },
+    {
+        "date": "2018-01-27",
+        "weekday": "Saturday",
+        "amount": "8,961",
+        "N_person": 856
+    },
+    {
+        "date": "2018-01-26",
+        "weekday": "Friday",
+        "amount": "12,420",
+        "N_person": 769
+    },
+    {
+        "date": "2018-01-25",
+        "weekday": "Thursday",
+        "amount": "7,164",
+        "N_person": 723
+    },
+    {
+        "date": "2018-01-24",
+        "weekday": "Wednesday",
+        "amount": "8,800",
+        "N_person": 939
+    },
+    {
+        "date": "2018-01-23",
+        "weekday": "Tuesday",
+        "amount": "8,603",
+        "N_person": 835
+    },
+    {
+        "date": "2018-01-22",
+        "weekday": "Monday",
+        "amount": "8,494",
+        "N_person": 901
+    },
+    {
+        "date": "2018-01-21",
+        "weekday": "Sunday",
+        "amount": "7,098",
+        "N_person": 565
+    },
+    {
+        "date": "2018-01-20",
+        "weekday": "Saturday",
+        "amount": "9,714",
+        "N_person": 938
+    },
+    {
+        "date": "2018-01-19",
+        "weekday": "Friday",
+        "amount": "11,434",
+        "N_person": 1030
+    },
+    {
+        "date": "2018-01-18",
+        "weekday": "Thursday",
+        "amount": "10,723",
+        "N_person": 1056
+    },
+    {
+        "date": "2018-01-17",
+        "weekday": "Wednesday",
+        "amount": "10,677",
+        "N_person": 1087
+    },
+    {
+        "date": "2018-01-16",
+        "weekday": "Tuesday",
+        "amount": "10,281",
+        "N_person": 1005
+    },
+    {
+        "date": "2018-01-15",
+        "weekday": "Monday",
+        "amount": "10,984",
+        "N_person": 1028
+    },
+    {
+        "date": "2018-01-14",
+        "weekday": "Sunday",
+        "amount": "5,756",
+        "N_person": 508
+    },
+    {
+        "date": "2018-01-13",
+        "weekday": "Saturday",
+        "amount": "9,275",
+        "N_person": 880
+    },
+    {
+        "date": "2018-01-12",
+        "weekday": "Friday",
+        "amount": "14,202",
+        "N_person": 1325
+    },
+    {
+        "date": "2018-01-11",
+        "weekday": "Thursday",
+        "amount": "13,761",
+        "N_person": 1230
+    },
+    {
+        "date": "2018-01-10",
+        "weekday": "Wednesday",
+        "amount": "12,687",
+        "N_person": 1147
+    },
+    {
+        "date": "2018-01-09",
+        "weekday": "Tuesday",
+        "amount": "11,277",
+        "N_person": 1053
+    },
+    {
+        "date": "2018-01-08",
+        "weekday": "Monday",
+        "amount": "9,599",
+        "N_person": 867
+    },
+    {
+        "date": "2018-01-07",
+        "weekday": "Sunday",
+        "amount": "7,899",
+        "N_person": 649
+    },
+    {
+        "date": "2018-01-06",
+        "weekday": "Saturday",
+        "amount": "10,844",
+        "N_person": 970
+    },
+    {
+        "date": "2018-01-05",
+        "weekday": "Friday",
+        "amount": "10,202",
+        "N_person": 970
+    },
+    {
+        "date": "2018-01-04",
+        "weekday": "Thursday",
+        "amount": "9,800",
+        "N_person": 948
+    },
+    {
+        "date": "2018-01-03",
+        "weekday": "Wednesday",
+        "amount": "9,529",
+        "N_person": 917
+    },
+    {
+        "date": "2018-01-02",
+        "weekday": "Tuesday",
+        "amount": "7,741",
+        "N_person": 766
+    },
+    {
+        "date": "2018-01-01",
+        "weekday": "Monday",
+        "amount": "5,346",
+        "N_person": 497
+    },
+    {
+        "date": "2017-12-31",
+        "weekday": "Sunday",
+        "amount": "6,064",
+        "N_person": 331
+    },
+    {
+        "date": "2017-12-30",
+        "weekday": "Saturday",
+        "amount": "8,730",
+        "N_person": 802
+    },
+    {
+        "date": "2017-12-29",
+        "weekday": "Friday",
+        "amount": "10,758",
+        "N_person": 985
+    },
+    {
+        "date": "2017-12-28",
+        "weekday": "Thursday",
+        "amount": "10,767",
+        "N_person": 993
+    },
+    {
+        "date": "2017-12-27",
+        "weekday": "Wednesday",
+        "amount": "11,698",
+        "N_person": 1083
+    },
+    {
+        "date": "2017-12-26",
+        "weekday": "Tuesday",
+        "amount": "9,671",
+        "N_person": 969
+    },
+    {
+        "date": "2017-12-25",
+        "weekday": "Monday",
+        "amount": "9,360",
+        "N_person": 880
+    },
+    {
+        "date": "2017-12-24",
+        "weekday": "Sunday",
+        "amount": "7,355",
+        "N_person": 702
+    },
+    {
+        "date": "2017-12-23",
+        "weekday": "Saturday",
+        "amount": "11,226",
+        "N_person": 1042
+    },
+    {
+        "date": "2017-12-22",
+        "weekday": "Friday",
+        "amount": "12,424",
+        "N_person": 999
+    },
+    {
+        "date": "2017-12-21",
+        "weekday": "Thursday",
+        "amount": "10,685",
+        "N_person": 950
+    },
+    {
+        "date": "2017-12-20",
+        "weekday": "Wednesday",
+        "amount": "11,109",
+        "N_person": 995
+    },
+    {
+        "date": "2017-12-19",
+        "weekday": "Tuesday",
+        "amount": "10,588",
+        "N_person": 966
+    },
+    {
+        "date": "2017-12-18",
+        "weekday": "Monday",
+        "amount": "9,915",
+        "N_person": 866
+    },
+    {
+        "date": "2017-12-17",
+        "weekday": "Sunday",
+        "amount": "7,432",
+        "N_person": 603
+    },
+    {
+        "date": "2017-12-16",
+        "weekday": "Saturday",
+        "amount": "9,474",
+        "N_person": 917
+    },
+    {
+        "date": "2017-12-15",
+        "weekday": "Friday",
+        "amount": "18,945",
+        "N_person": 1012
+    },
+    {
+        "date": "2017-12-14",
+        "weekday": "Thursday",
+        "amount": "12,478",
+        "N_person": 978
+    },
+    {
+        "date": "2017-12-13",
+        "weekday": "Wednesday",
+        "amount": "12,010",
+        "N_person": 966
+    },
+    {
+        "date": "2017-12-12",
+        "weekday": "Tuesday",
+        "amount": "10,741",
+        "N_person": 985
+    },
+    {
+        "date": "2017-12-11",
+        "weekday": "Monday",
+        "amount": "10,131",
+        "N_person": 825
+    },
+    {
+        "date": "2017-12-10",
+        "weekday": "Sunday",
+        "amount": "7,380",
+        "N_person": 594
+    },
+    {
+        "date": "2017-12-09",
+        "weekday": "Saturday",
+        "amount": "10,681",
+        "N_person": 873
+    },
+    {
+        "date": "2017-12-08",
+        "weekday": "Friday",
+        "amount": "10,668",
+        "N_person": 941
+    },
+    {
+        "date": "2017-12-07",
+        "weekday": "Thursday",
+        "amount": "10,094",
+        "N_person": 868
+    },
+    {
+        "date": "2017-12-06",
+        "weekday": "Wednesday",
+        "amount": "10,608",
+        "N_person": 970
+    },
+    {
+        "date": "2017-12-05",
+        "weekday": "Tuesday",
+        "amount": "12,759",
+        "N_person": 750
+    },
+    {
+        "date": "2017-12-04",
+        "weekday": "Monday",
+        "amount": "7,904",
+        "N_person": 757
+    },
+    {
+        "date": "2017-12-03",
+        "weekday": "Sunday",
+        "amount": "5,228",
+        "N_person": 485
+    },
+    {
+        "date": "2017-12-02",
+        "weekday": "Saturday",
+        "amount": "8,061",
+        "N_person": 708
+    },
+    {
+        "date": "2017-12-01",
+        "weekday": "Friday",
+        "amount": "8,405",
+        "N_person": 753
+    },
+    {
+        "date": "2017-11-30",
+        "weekday": "Thursday",
+        "amount": "8,120",
+        "N_person": 687
+    },
+    {
+        "date": "2017-11-29",
+        "weekday": "Wednesday",
+        "amount": "9,729",
+        "N_person": 813
+    },
+    {
+        "date": "2017-11-28",
+        "weekday": "Tuesday",
+        "amount": "9,407",
+        "N_person": 848
+    },
+    {
+        "date": "2017-11-27",
+        "weekday": "Monday",
+        "amount": "7,439",
+        "N_person": 721
+    },
+    {
+        "date": "2017-11-26",
+        "weekday": "Sunday",
+        "amount": "6,114",
+        "N_person": 463
+    },
+    {
+        "date": "2017-11-25",
+        "weekday": "Saturday",
+        "amount": "7,983",
+        "N_person": 655
+    },
+    {
+        "date": "2017-11-24",
+        "weekday": "Friday",
+        "amount": "9,343",
+        "N_person": 778
+    },
+    {
+        "date": "2017-11-23",
+        "weekday": "Thursday",
+        "amount": "8,283",
+        "N_person": 658
+    },
+    {
+        "date": "2017-11-22",
+        "weekday": "Wednesday",
+        "amount": "8,362",
+        "N_person": 686
+    },
+    {
+        "date": "2017-11-21",
+        "weekday": "Tuesday",
+        "amount": "5,682",
+        "N_person": 508
+    },
+    {
+        "date": "2017-11-20",
+        "weekday": "Monday",
+        "amount": "4,924",
+        "N_person": 465
+    },
+    {
+        "date": "2017-11-19",
+        "weekday": "Sunday",
+        "amount": "3,244",
+        "N_person": 238
+    },
+    {
+        "date": "2017-11-18",
+        "weekday": "Saturday",
+        "amount": "4,988",
+        "N_person": 427
+    },
+    {
+        "date": "2017-11-17",
+        "weekday": "Friday",
+        "amount": "5,855",
+        "N_person": 575
+    },
+    {
+        "date": "2017-11-16",
+        "weekday": "Thursday",
+        "amount": "4,927",
+        "N_person": 381
+    },
+    {
+        "date": "2017-11-15",
+        "weekday": "Wednesday",
+        "amount": "7,277",
+        "N_person": 655
+    },
+    {
+        "date": "2017-11-14",
+        "weekday": "Tuesday",
+        "amount": "6,926",
+        "N_person": 559
+    },
+    {
+        "date": "2017-11-13",
+        "weekday": "Monday",
+        "amount": "6,093",
+        "N_person": 533
+    },
+    {
+        "date": "2017-11-12",
+        "weekday": "Sunday",
+        "amount": "4,416",
+        "N_person": 344
+    },
+    {
+        "date": "2017-11-11",
+        "weekday": "Saturday",
+        "amount": "4,618",
+        "N_person": 331
+    },
+    {
+        "date": "2017-11-10",
+        "weekday": "Friday",
+        "amount": "315",
+        "N_person": 27
+    }
+]
