@@ -28,7 +28,7 @@ Vue.component('chart', ECharts)
 
 const router = new VueRouter({
   routes,
-  mode: 'hash'
+  mode: 'history'
 });
 
 router.beforeEach((to, from, next)=>{
